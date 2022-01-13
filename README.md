@@ -1,2 +1,4 @@
 # prenatal
-Data for publication: Teeth, prenatal growth rates, and the evolution of human-like pregnancy in later Homo
+T.A. Monson, M.F. Brasil, L.J. Hlusko, A.P. Weitz. Teeth, prenatal growth rates, and the evolution of human-like pregnancy in later Homo. 2021.
+
+Gestation is one of the great mysteries in human origins. We developed a method for reconstructing prenatal growth during this earliest phase of life history using dental morphology. The rate of growth in utero is inextricably linked to physiological and behavioral traits that directly shaped modern human biology and social structure. Our method indicates an increase in prenatal growth rates throughout the Plio-Pleistocene with the evolution of human-like prenatal growth rates in later Homo, approximately 1-1.5 million years ago. This aligns with fossilized pelvic and cranial anatomy to support the evolution of human-like pregnancy in the Early Pleistocene with Homo erectus and opens up possibilities for a novel way to explore the evolution of hominid gestation via dental variation.
